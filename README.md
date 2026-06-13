@@ -122,14 +122,5 @@ joao_pedro = {
 
 ---
 
-## Conquistas
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=joaopmd16&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:92fe9d&height=100&section=footer"/>
 
