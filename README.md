@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 João Pedro
+# João Pedro
 
 ### `Estudante de IA @ FIAP | Machine Learning • NLP • IoT • Computer Vision`
 
@@ -14,13 +14,13 @@
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Sou **João Pedro**, estudante de **Inteligência Artificial na FIAP**, apaixonado por construir soluções inteligentes que resolvem problemas reais.
 
-💡 **Minha abordagem:** Dados + Modelos + Impacto — sempre pensando em como a IA pode transformar o mundo.
+**Minha abordagem:** Dados + Modelos + Impacto — sempre pensando em como a IA pode transformar o mundo.
 
-### 🎯 O que eu faço:
+### O que eu faço:
 
 ```python
 joao_pedro = {
@@ -40,23 +40,23 @@ joao_pedro = {
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 <div align="center">
 
-### 💻 Linguagens
+### Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🤖 IA & Machine Learning
+### IA & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### ☁️ Cloud & Ferramentas
+### Cloud & Ferramentas
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -67,13 +67,13 @@ joao_pedro = {
 
 ---
 
-## 🎯 Áreas de Especialização
+## Áreas de Especialização
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 ML & IA
+### ML & IA
 - Machine Learning e Redes Neurais
 - NLP e modelos RAG com LLMs
 - Computação Quântica aplicada à IA
@@ -82,7 +82,7 @@ joao_pedro = {
 </td>
 <td width="50%">
 
-### 📡 IoT & Automação
+### IoT & Automação
 - Sistemas embarcados com ESP32/Arduino
 - RPA e automação de processos
 - Pipelines de dados inteligentes
@@ -94,7 +94,7 @@ joao_pedro = {
 
 ---
 
-## 📌 Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto | Descrição |
 |---|---|
@@ -107,7 +107,7 @@ joao_pedro = {
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -122,7 +122,7 @@ joao_pedro = {
 
 ---
 
-## 🏆 Conquistas
+## Conquistas
 
 <div align="center">
 
@@ -130,17 +130,6 @@ joao_pedro = {
 
 </div>
 
----
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:92fe9d&height=100&section=footer"/>
 
-### 💭 Filosofia
-
-> *"IA não é sobre substituir pessoas — é sobre ampliar o que somos capazes de fazer."*
-
-**⚡ Sempre aprendendo, construindo e evoluindo.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</div>
- 
